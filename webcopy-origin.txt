@@ -1,0 +1,136 @@
+Uri: https://a.ladipage.com/
+File Name: C:\Downloaded Web Sites\www.mixisol.com\index-1.htm
+Content Type: text/plain
+
+Uri: https://api.sales.ldpform.net/
+File Name: C:\Downloaded Web Sites\www.mixisol.com\index-2.htm
+Content Type: application/json
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\www.mixisol.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1y4n.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://w.ladicdn.com/5b52e9ea61c3fe3313704bb1/13-40-03-191_512-20240507074451-qiqxj.gif
+File Name: C:\Downloaded Web Sites\www.mixisol.com\5b52e9ea61c3fe3313704bb1\13-40-03-191_512-20240507074451-qiqxj.gif
+Content Type: image/gif
+
+Uri: https://w.ladicdn.com/5b52e9ea61c3fe3313704bb1/architectsdaughter-20230925080812-wn4is.ttf
+File Name: C:\Downloaded Web Sites\www.mixisol.com\5b52e9ea61c3fe3313704bb1\architectsdaughter-20230925080812-wn4is.ttf
+Content Type: font/ttf
+
+Uri: https://w.ladicdn.com/5b52e9ea61c3fe3313704bb1/giphy-18-20240507041322-wm-mh.gif
+File Name: C:\Downloaded Web Sites\www.mixisol.com\5b52e9ea61c3fe3313704bb1\giphy-18-20240507041322-wm-mh.gif
+Content Type: image/gif
+
+Uri: https://w.ladicdn.com/5b52e9ea61c3fe3313704bb1/giphy-21-20240507041322-uwxvm.gif
+File Name: C:\Downloaded Web Sites\www.mixisol.com\5b52e9ea61c3fe3313704bb1\giphy-21-20240507041322-uwxvm.gif
+Content Type: image/gif
+
+Uri: https://w.ladicdn.com/5b52e9ea61c3fe3313704bb1/giphy-26-20240507074505-c7hoh.gif
+File Name: C:\Downloaded Web Sites\www.mixisol.com\5b52e9ea61c3fe3313704bb1\giphy-26-20240507074505-c7hoh.gif
+Content Type: image/gif
+
+Uri: https://w.ladicdn.com/5b52e9ea61c3fe3313704bb1/z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\5b52e9ea61c3fe3313704bb1\z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s1440x1293/5b52e9ea61c3fe3313704bb1/gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s1440x1293\5b52e9ea61c3fe3313704bb1\gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s1440x576/5b52e9ea61c3fe3313704bb1/gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s1440x576\5b52e9ea61c3fe3313704bb1\gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s1440x72/5b52e9ea61c3fe3313704bb1/gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s1440x72\5b52e9ea61c3fe3313704bb1\gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s400x400/5b52e9ea61c3fe3313704bb1/df13d8694110da280d4389e3c8915127-20240504075746-2scvk.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s400x400\5b52e9ea61c3fe3313704bb1\df13d8694110da280d4389e3c8915127-20240504075746-2scvk.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x400/5b52e9ea61c3fe3313704bb1/tg-button-20240506060452-fbcry-20240507034003-akv53.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s400x400\5b52e9ea61c3fe3313704bb1\tg-button-20240506060452-fbcry-20240507034003-akv53.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x400/5b52e9ea61c3fe3313704bb1/x-button-1-20240506060452-sedex-20240507034003-ajikr.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s400x400\5b52e9ea61c3fe3313704bb1\x-button-1-20240506060452-sedex-20240507034003-ajikr.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s400x400/5b52e9ea61c3fe3313704bb1/z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s400x400\5b52e9ea61c3fe3313704bb1\z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s550x550/5b52e9ea61c3fe3313704bb1/1-20240507125949-vzujr.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s550x550\5b52e9ea61c3fe3313704bb1\1-20240507125949-vzujr.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x550/5b52e9ea61c3fe3313704bb1/2-20240507125949--rvxj.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s550x550\5b52e9ea61c3fe3313704bb1\2-20240507125949--rvxj.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x550/5b52e9ea61c3fe3313704bb1/3-20240507125949-e-y0t.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s550x550\5b52e9ea61c3fe3313704bb1\3-20240507125949-e-y0t.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x550/5b52e9ea61c3fe3313704bb1/4-20240507125950-3vyj4.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s550x550\5b52e9ea61c3fe3313704bb1\4-20240507125950-3vyj4.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x550/5b52e9ea61c3fe3313704bb1/5-20240507125950-boetg.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s550x550\5b52e9ea61c3fe3313704bb1\5-20240507125950-boetg.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x550/5b52e9ea61c3fe3313704bb1/6-20240507125950-8r_re.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s550x550\5b52e9ea61c3fe3313704bb1\6-20240507125950-8r_re.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x550/5b52e9ea61c3fe3313704bb1/7-20240507125950-tea9p.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s550x550\5b52e9ea61c3fe3313704bb1\7-20240507125950-tea9p.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s550x550/5b52e9ea61c3fe3313704bb1/8-20240507125950-vrpr7.png
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s550x550\5b52e9ea61c3fe3313704bb1\8-20240507125950-vrpr7.png
+Content Type: image/png
+
+Uri: https://w.ladicdn.com/s600x600/5b52e9ea61c3fe3313704bb1/z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s600x600\5b52e9ea61c3fe3313704bb1\z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s650x650/5b52e9ea61c3fe3313704bb1/z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s650x650\5b52e9ea61c3fe3313704bb1\z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s700x700/5b52e9ea61c3fe3313704bb1/z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s700x700\5b52e9ea61c3fe3313704bb1\z5418243505445_0bb9ca091a47f36ef8b9b26e13b2106c-20240507125845-dxvtt.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s768x1312/5b52e9ea61c3fe3313704bb1/gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s768x1312\5b52e9ea61c3fe3313704bb1\gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s768x1742/5b52e9ea61c3fe3313704bb1/gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s768x1742\5b52e9ea61c3fe3313704bb1\gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/s768x67/5b52e9ea61c3fe3313704bb1/gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+File Name: C:\Downloaded Web Sites\www.mixisol.com\s768x67\5b52e9ea61c3fe3313704bb1\gradient-grainy-texture_23-2148987745-20240507034153-6j6_q.jpg
+Content Type: image/jpeg
+
+Uri: https://w.ladicdn.com/v4/source/ladipagev3.min.js?v=1715853815925
+File Name: C:\Downloaded Web Sites\www.mixisol.com\v4\source\ladipagev3.min.js
+Content Type: text/javascript
+
+Uri: https://www.mixisol.com/
+File Name: C:\Downloaded Web Sites\www.mixisol.com\index.htm
+Content Type: text/html
+
